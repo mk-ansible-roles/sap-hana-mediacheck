@@ -1,6 +1,9 @@
 sap-hana-mediacheck
 ===================
 
+# THIS ROLE IS DEPRECATED AND WILL BE DELETED IN 12.2022<BR>use _community.sap_install_ collection instead
+
+
 SAP HANA is delivered and provided in various ways. The sap-hana-mediacheck role is used to verify that the installation media is valid. It checks the version that is to be installed and sets the following variables for further use:
 
  - `sap_hana_version` the major Release of HANA (e.g. 1 or 2)
